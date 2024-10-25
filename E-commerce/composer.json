@@ -1,0 +1,9 @@
+{
+    "name": "elmanar/e-commerce",
+    "description": "an e-commerce website php",
+    "minimum-stability": "stable",
+    "require": {
+        "monolog/monolog": "^3.7",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
